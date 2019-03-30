@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ada">"gosling最初被称为gosling emacs的作者，还发明了windowing系统新闻，由于sun没有给它一个开源许可证，它输给了x window。人们普遍认为他在1994发明了Java编程语言。他创建了Java的原始设计，并实现了语言的原始编译器和虚拟机。高斯林将这种方法的起源追溯到他早期的研究生时代，那时他为实验室的DEC-VAX计算机创建了一个P代码虚拟机，这样他的教授就可以运行用UCSD Pascal编写的程序。在Sun的JAVA工作中，他发现，对于广泛分布的程序来说，架构中性的执行可以通过实现类似的理念来实现：总是为同一虚拟机编程。"</string>
+    <string name="gosling">"gosling最初被称为gosling emacs的作者，还发明了windowing系统新闻，由于sun没有给它一个开源许可证，它输给了x window。人们普遍认为他在1994发明了Java编程语言。他创建了Java的原始设计，并实现了语言的原始编译器和虚拟机。高斯林将这种方法的起源追溯到他早期的研究生时代，那时他为实验室的DEC-VAX计算机创建了一个P代码虚拟机，这样他的教授就可以运行用UCSD Pascal编写的程序。在Sun的JAVA工作中，他发现，对于广泛分布的程序来说，架构中性的执行可以通过实现类似的理念来实现：总是为同一虚拟机编程。"</string>
+</resources>
